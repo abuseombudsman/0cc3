@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Copa America Brasil 2019"
 ---
 
 # Copa America Brasil 2019
@@ -49,4 +49,32 @@ Uruguay, Chile, Ecuador y Japón.
     </tr>
   </tbody>
 </table>
+<table>
+  <tbody>
+    <tr>
+      <td>2do grupo A</td>
+      <td class="partido">partido 21</td>
+      <td>2do grupo B/C</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td>1ero grupo B</td>
+      <td class="partido">partido 20</td>
+      <td>2do grupo C</td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <tbody>
+    <tr>
+      <td>1ero grupo C</td>
+      <td class="partido">partido 22</td>
+      <td>3ero grupo A/B</td>
+    </tr>
+  </tbody>
+</table>
+
    
