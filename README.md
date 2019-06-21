@@ -1,27 +1,47 @@
-# Minimal Mistakes remote theme starter
+# Copa America Brasil 2019
 
-Fork this repo for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+La Copa America Brasil 2019 se disputa en 6 ciudades brasileiras: 
 
-Contains basic configuration to get you a site with:
+- Salvador de Bahía
+- Porto Alegre
+- Río de Janeiro
+- San Pablo
+- Belo Horizonte
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Los grupos
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+### Grupo A
 
----
+Brasil, Bolivia, Perú y Venezuela.
+{: .notice--primary}
 
-## Troubleshooting
+### Grupo B
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+Argentina, Colombia, Paraguay y Catar.
+{: .notice--primary}
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+### Grupo C
+
+Uruguay, Chile, Ecuador y Japón.
+{: .notice--primary}
+
+## Cuartos de final
+
+<style>
+  .partido {
+    background: red;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+  }
+</style>
+<table>
+  <tbody>
+    <tr>
+      <td>1ero grupo A</td>
+      <td class="partido">partido 19</td>
+      <td>3ero grupo B/C</td>
+    </tr>
+  </tbody>
+</table>
+   
