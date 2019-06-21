@@ -42,6 +42,6 @@ Uruguay, Chile, Ecuador y Japón.
 </style>
 
  - 1ero grupo A
- - partido 19 {: style="background: red;color: white;padding: 5px;border-radius: 5px;"}
+ - partido 19 {:style="background: red;color: white;padding: 5px;border-radius: 5px;"}
  - 3ero grupo B/C
    
