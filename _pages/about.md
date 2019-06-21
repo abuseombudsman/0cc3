@@ -32,7 +32,7 @@ Uruguay, Chile, Ecuador y Japón.
 
 <style>
   .partido {
-    background: grey;
+    background: #808080;
     color: white;
     padding: 5px;
     border-radius: 5px;
@@ -42,12 +42,7 @@ Uruguay, Chile, Ecuador y Japón.
   <tbody>
     <tr>
       <td>1ero grupo A</td>
-      <td>
-
-partido 19
-{: .notice--primary}
-
-   </td>
+      <td class="partido">partido 19</td>
       <td>3ero grupo B/C</td>
     </tr>
   </tbody>
