@@ -68,7 +68,7 @@ Uruguay, Chile, Ecuador y Japón.
 <table>
   <tbody>
     <tr>
-ganador      <td>1ero grupo C</td>
+      <td>1ero grupo C</td>
       <td class="partido">partido 22</td>
       <td>3ero grupo A/B</td>
     </tr>
