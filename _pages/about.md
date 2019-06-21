@@ -40,8 +40,13 @@ Uruguay, Chile, Ecuador y Japón.
     border-radius: 5px;
   }
 </style>
-
- - 1ero grupo A
- - partido 19 {:style="background: red;color: white;padding: 5px;border-radius: 5px;"}
- - 3ero grupo B/C
+<table>
+  <tbody>
+    <tr>
+      <td>1ero grupo A</td>
+      <td class="partido">partido 19</td>
+      <td>3ero grupo B/C</td>
+    </tr>
+  </tbody>
+</table>
    
