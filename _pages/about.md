@@ -3,6 +3,50 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# Copa America Brasil 2019
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+La Copa America Brasil 2019 se disputa en 6 ciudades brasileiras: 
+
+- Salvador de Bahía
+- Porto Alegre
+- Río de Janeiro
+- San Pablo
+- Belo Horizonte
+
+## Los grupos
+
+### Grupo A
+
+Brasil, Bolivia, Perú y Venezuela.
+{: .notice--primary}
+
+### Grupo B
+
+Argentina, Colombia, Paraguay y Catar.
+{: .notice--primary}
+
+### Grupo C
+
+Uruguay, Chile, Ecuador y Japón.
+{: .notice--primary}
+
+## Cuartos de final
+
+<style>
+  .partido {
+    background: red;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+  }
+</style>
+<table>
+  <tbody>
+    <tr>
+      <td>1ero grupo A</td>
+      <td class="partido">partido 19</td>
+      <td>3ero grupo B/C</td>
+    </tr>
+  </tbody>
+</table>
+   
