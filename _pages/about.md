@@ -52,7 +52,7 @@ Uruguay, Chile, Ecuador y Japón.
     <tr>
       <td>2do grupo A</td>
       <td class="partido">partido 21</td>
-      <td>2do grupo B/C</td>
+      <td>2do grupo B</td>
     </tr>
   </tbody>
 </table>
