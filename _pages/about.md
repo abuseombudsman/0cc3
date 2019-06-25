@@ -31,8 +31,8 @@ Uruguay, Chile, Ecuador y Japón.
 ## Cuartos de final
 
 <style>
-  .partido {
-    background: #808080;
+  .partido-label {
+    background: #f1f1f2;
     color: white;
     padding: 5px;
     border-radius: 5px;
@@ -42,7 +42,7 @@ Uruguay, Chile, Ecuador y Japón.
   <tbody>
     <tr>
       <td>1ero grupo A</td>
-      <td class="partido">partido 19</td>
+      <td class="partido-label">partido 19</td>
       <td>3ero grupo B/C</td>
     </tr>
   </tbody>
@@ -51,7 +51,7 @@ Uruguay, Chile, Ecuador y Japón.
   <tbody>
     <tr>
       <td>2do grupo A</td>
-      <td class="partido">partido 21</td>
+      <td class="partido-label">partido 21</td>
       <td>2do grupo B</td>
     </tr>
   </tbody>
@@ -60,7 +60,7 @@ Uruguay, Chile, Ecuador y Japón.
   <tbody>
     <tr>
       <td>1ero grupo B</td>
-      <td class="partido">partido 20</td>
+      <td class="partido-label">partido 20</td>
       <td>2do grupo C</td>
     </tr>
   </tbody>
@@ -69,7 +69,7 @@ Uruguay, Chile, Ecuador y Japón.
   <tbody>
     <tr>
       <td>1ero grupo C</td>
-      <td class="partido">partido 22</td>
+      <td class="partido-label">partido 22</td>
       <td>3ero grupo A/B</td>
     </tr>
   </tbody>
@@ -81,7 +81,7 @@ Uruguay, Chile, Ecuador y Japón.
   <tbody>
     <tr>
       <td>ganador partido 19</td>
-      <td class="partido">partido 23</td>
+      <td class="partido-label">partido 23</td>
       <td>ganador partido 21</td>
     </tr>
   </tbody>
@@ -90,7 +90,7 @@ Uruguay, Chile, Ecuador y Japón.
   <tbody>
     <tr>
       <td>ganador partido 20</td>
-      <td class="partido">partido 24</td>
+      <td class="partido-label">partido 24</td>
       <td>ganador partido 22</td>
     </tr>
   </tbody>
@@ -102,7 +102,7 @@ Uruguay, Chile, Ecuador y Japón.
   <tbody>
     <tr>
       <td>perdedor partido 23</td>
-      <td class="partido">partido 25</td>
+      <td class="partido-label">partido 25</td>
       <td>perdedor partido 24</td>
     </tr>
   </tbody>
@@ -114,7 +114,7 @@ Uruguay, Chile, Ecuador y Japón.
   <tbody>
     <tr>
       <td>ganador partido 23</td>
-      <td class="partido">partido 26</td>
+      <td class="partido-label">partido 26</td>
       <td>ganador partido 24</td>
     </tr>
   </tbody>
