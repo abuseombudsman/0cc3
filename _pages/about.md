@@ -33,7 +33,7 @@ Uruguay, Chile, Ecuador y Japón.
 <style>
   .partido-label {
     background: #f1f1f2;
-    color: white;
+    color: #808080;
     padding: 5px;
     border-radius: 5px;
   }
