@@ -1,12 +1,12 @@
 ---
-title: "Copa América 2019: **Ecuador vs Japón** Partido Completo"
-excerpt: "Copa America Brasil 2019 Grupo C Jornada 3 **Ecuador vs Japón** Partido Completo"
-name: 2019-06-26-video-copa-america-ecuador-vs-japon.md
+title: "Copa América 2019: **Chile vs Uruguay** Partido Completo"
+excerpt: "Copa America Brasil 2019 Grupo C Jornada 3 **Chile vs Uruguay** Partido Completo"
+name: 2019-06-26-video-copa-america-chile-vs-uruguay.md
 category:
-  - Fase de Grupos - Grupo C Jornada 1
+  - Fase de Grupos - Grupo C
 tags:
-  - Ecuador
-  - Japón 
+  - Chile
+  - Uruguay
 link: https://mystream.to/watch/t8aa7dfyrixv 
 header:
     overlay_color: "#000"
@@ -14,7 +14,7 @@ header:
     overlay_image: /assets/images/g974.png
 ---
 
-**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo C - Jornada 3: **Ecuador vs Japón**, partido completo jugado en Belo Horizonte por la fase de grupos, **grabación en ruso** de Match! TV.
+**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo C - Jornada 3: **Chile vs Uruguay**, partido completo jugado en Belo Horizonte por la fase de grupos, **grabación en ruso** de Match! TV.
 {: .notice--warning}
 
 <style>
@@ -37,7 +37,7 @@ header:
 				<tr>
 					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/21210212120.png"></td>
 					<td>
-						<iframe width="560" height="315" src="//mystream.to/watch/t8aa7dfyrixv" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+						<iframe src="https://embed.mystream.to/t8aa7dfyrixv" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 					</td>
     					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/203233451.png"></td>
   				</tr>
