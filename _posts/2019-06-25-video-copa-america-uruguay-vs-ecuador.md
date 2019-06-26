@@ -17,6 +17,13 @@ header:
 **Copa America** - Brasil 2019 - Fase de Grupos - Grupo C - Jornada 1: Uruguay vs Ecuador, partido completo jugado en Belo Horizonte por la fase de grupos, **grabación en ruso** de Match! TV.
 {: .notice--warning}
 
+<style>
+	td {
+	padding: 0;
+	border-bottom: 0;
+}
+</style>
+
 <br>
 <div id="media">
 	<center>
