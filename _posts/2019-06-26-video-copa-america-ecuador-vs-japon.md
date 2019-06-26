@@ -14,7 +14,7 @@ header:
     overlay_image: /assets/images/g974.png
 ---
 
-**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo C - Jornada 3: **Ecuador vs Japón**, partido completo jugado en Belo Horizonte por la fase de grupos, **grabación en ruso** de Match! TV.
+**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo C - Jornada 3: **Ecuador vs Japón**, partido completo jugado en Bello Horizonte por la fase de grupos, **grabación en ruso** de Match! TV.
 {: .notice--warning}
 
 <style>
