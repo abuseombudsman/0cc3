@@ -17,23 +17,6 @@ La Copa America Brasil 2019 se disputa en 6 ciudades brasileiras:
 
 ## Los grupos
 
-#### Grupo A
-
-Brasil, Bolivia, Perú y Venezuela.
-{: .notice--primary}
-
-#### Grupo B
-
-Argentina, Colombia, Paraguay y Catar.
-{: .notice--primary}
-
-#### Grupo C
-
-Uruguay, Chile, Ecuador y Japón.
-{: .notice--primary}
-
-## Cuartos de final
-
 <style>
   .partido-label {
     background: #929598;
@@ -42,6 +25,24 @@ Uruguay, Chile, Ecuador y Japón.
     border-radius: 5px;
   }
 </style>
+
+#### Grupo A
+
+<p class="partido-label">Brasil, Perú, Venezuela y Bolivia.</p>
+{: .notice--primary}
+
+#### Grupo B
+
+<p class="partido-label">Argentina, Colombia, Paraguay y Catar.</p>
+{: .notice--primary}
+
+#### Grupo C
+
+<p class="partido-label">Uruguay, Chile, Ecuador y Japón.</p>
+{: .notice--primary}
+
+## Cuartos de final
+
 <table>
   <tbody>
     <tr>
