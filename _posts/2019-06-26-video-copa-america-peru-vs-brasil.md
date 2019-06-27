@@ -9,12 +9,12 @@ tags:
   - Brasil
 link: https://mystream.to/watch/dm0ut5teexgm
 header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /assets/images/g974.png
+    overlay_color: "#012681"
+    overlay_filter: "0.3"
+    overlay_image: /assets/images/g844.jpg
 ---
 
-**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo A - Jornada 3: **Perú vs Brasil**, partido completo jugado en San Pablo por la fase de grupos, **grabación en ruso** de Match! TV.
+**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo A - Jornada 3: **Perú vs Brasil**, jugado en San Pablo **idioma ruso** por Match! TV.
 {: .notice--warning}
 
 <style>
@@ -37,7 +37,7 @@ header:
 				<tr>
 					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/21210212120.png"></td>
 					<td>
-						<iframe src="https://embed.mystream.to/dm0ut5teexgm" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+						<iframe src="https://embed.mystream.to/dm0ut5teexgm" scrolling="no" frameborder="0" width="560" height="315" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 					</td>
     					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/203233451.png"></td>
   				</tr>
