@@ -1,6 +1,10 @@
 ---
 permalink: /about/
 title: "Copa America Brasil 2019"
+header:
+    overlay_color: "#012681"
+    overlay_filter: "0.3"
+    overlay_image: /assets/images/g844.jpg
 ---
 
 La Copa America Brasil 2019 se disputa en 6 ciudades brasileiras: 
@@ -32,8 +36,8 @@ Uruguay, Chile, Ecuador y Japón.
 
 <style>
   .partido-label {
-    background: #f1f1f2;
-    color: #808080;
+    background: #929598;
+    color: white;
     padding: 5px;
     border-radius: 5px;
   }
