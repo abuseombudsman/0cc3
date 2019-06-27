@@ -9,12 +9,12 @@ tags:
   - Uruguay
 link: https://mystream.to/watch/t8aa7dfyrixv 
 header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /assets/images/g974.png
+    overlay_color: "#012681"
+    overlay_filter: "0.3"
+    overlay_image: /assets/images/g844.jpg
 ---
 
-**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo C - Jornada 3: **Chile vs Uruguay**, partido completo jugado en Rio de Janeiro por la fase de grupos, **grabación en ruso** de Match! TV.
+**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo C - Jornada 3: **Chile vs Uruguay**, jugado en Rio de Janeiro **idioma ruso** Match! TV.
 {: .notice--warning}
 
 <style>
@@ -37,7 +37,7 @@ header:
 				<tr>
 					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/21210212120.png"></td>
 					<td>
-						<iframe src="https://embed.mystream.to/t8aa7dfyrixv" scrolling="no" frameborder="0" width="700" height="430" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+						<iframe src="https://embed.mystream.to/t8aa7dfyrixv" scrolling="no" frameborder="0" width="560" height="315" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 					</td>
     					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/203233451.png"></td>
   				</tr>
