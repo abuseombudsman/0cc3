@@ -11,7 +11,7 @@ link: https://mystream.to/watch/am24cbwkvkem
 header:
     overlay_color: "#012681"
     overlay_filter: "0.3"
-    overlay_image: /assets/images/g844.png
+    overlay_image: /assets/images/g844.jpg
 ---
 
 **Copa America** - **Brasil 2019** - Fase de Grupos - Grupo A - Jornada 3: **Bolivia vs Venezuela**, partido completo jugado en Bello Horizonte por la fase de grupos, **grabación en ruso** de Match! TV.
