@@ -3,7 +3,7 @@ title: "Copa América 2019: Uruguay vs Ecuador Partido Completo"
 excerpt: "Copa America Brasil 2019 Grupo C Jornada 1 Uruguay vs Ecuador Partido Completo"
 name: 2019-06-18-video-copa-america-uruguay-vs-ecuador.md
 category:
-  - Fase de Grupos - Grupo C Jornada 1
+  - Fase de Grupos - Grupo C
 tags:
   - Ecuador
   - Uruguay 
