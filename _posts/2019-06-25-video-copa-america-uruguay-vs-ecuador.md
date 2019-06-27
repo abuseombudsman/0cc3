@@ -10,7 +10,7 @@ tags:
 link: https://mystream.to/watch/wz1yde9r902s
 header:
     overlay_color: "#012681"
-    overlay_filter: "0.2"
+    overlay_filter: "0.3"
     overlay_image: /assets/images/g844.jpg
 ---
 
