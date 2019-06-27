@@ -14,7 +14,7 @@ header:
     overlay_image: /assets/images/g844.jpg
 ---
 
-**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo A - Jornada 3: **Bolivia vs Venezuela**, partido completo jugado en Bello Horizonte por la fase de grupos, **grabación en ruso** de Match! TV.
+**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo A - Jornada 3: **Bolivia vs Venezuela**, jugado en Bello Horizonte **idioma ruso** de Match! TV.
 {: .notice--warning}
 
 <style>
