@@ -9,9 +9,9 @@ tags:
   - Uruguay 
 link: https://mystream.to/watch/wz1yde9r902s
 header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
-    overlay_image: /assets/images/g974.png
+    overlay_color: "#012681"
+    overlay_filter: "0.7"
+    overlay_image: /assets/images/g844.jpg
 ---
 
 **Copa America** - Brasil 2019 - Fase de Grupos - Grupo C - Jornada 1: **Uruguay vs Ecuador**, partido completo jugado en Belo Horizonte por la fase de grupos, **grabación en ruso** de Match! TV.
