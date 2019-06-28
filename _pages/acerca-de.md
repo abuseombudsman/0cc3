@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /acerca-de/
 title: "Copa America Brasil 2019"
 header:
     overlay_color: "#012681"
