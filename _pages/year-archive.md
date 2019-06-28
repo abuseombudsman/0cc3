@@ -1,5 +1,5 @@
 ---
-title: "Los partidos de la Copa America 2019"
+title: "Los partidos"
 permalink: /partidos-completos/
 layout: posts
 author_profile: true
