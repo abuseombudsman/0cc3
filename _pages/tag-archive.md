@@ -1,5 +1,5 @@
 ---
-title: "Selecciones participantes de la Copa America 2019"
+title: "Las selecciones participantes"
 permalink: /selecciones/
 layout: tags
 author_profile: true
