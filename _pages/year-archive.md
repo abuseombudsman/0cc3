@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
+title: "Todos los partidos de la Copa America 2019"
+permalink: /partidos-completos/
 layout: posts
 author_profile: true
 header:
