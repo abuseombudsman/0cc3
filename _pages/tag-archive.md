@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Selecciones participantes de la Copa America 2019"
+permalink: /selecciones/
 layout: tags
 author_profile: true
 header:
