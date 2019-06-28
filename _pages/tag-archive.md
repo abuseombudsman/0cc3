@@ -1,6 +1,6 @@
 ---
 title: "Las selecciones participantes"
-permalink: /selecciones/
+permalink: /tags/
 layout: tags
 author_profile: true
 header:
