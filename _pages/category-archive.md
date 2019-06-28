@@ -1,7 +1,7 @@
 ---
 title: "Las fases"
 layout: categories
-permalink: /fases/
+permalink: /categories/
 author_profile: true
 header:
     overlay_color: "#012681"
