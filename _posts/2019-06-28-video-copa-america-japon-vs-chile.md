@@ -14,7 +14,7 @@ header:
     overlay_image: /assets/images/g844.jpg
 ---
 
-**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo C - Jornada 1: **Japón vs Chile**, jugado en Porto Alegre **idioma ruso** por Match! TV.
+**Copa America** - **Brasil 2019** - Fase de Grupos - Grupo C - Jornada 1: **Japón vs Chile**, jugado en San Pablo **idioma ruso** por Match! TV.
 {: .notice--warning}
 
 <style>
