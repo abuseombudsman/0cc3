@@ -1,5 +1,5 @@
 ---
-title: "Todas las fases de la Copa America 2019"
+title: "Las fases de la Copa America 2019"
 layout: categories
 permalink: /fases/
 author_profile: true
