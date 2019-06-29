@@ -18,10 +18,22 @@ locale: "es"
 title: "Copa América Brasil 2019"
 email: "s6.bita@gmail.com"
 description: "Todos los partidos completos de la Copa América Brasil 2019 online, en idioma ruso y calidad HD."
+url: "https://6bita.github.io"
+baseurl: "/0cc3"
+repository: "6bita/0cc3"
 logo: "/assets/images/logo.png"
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "copa-america-brasil-2019"
+
+
 twitter_username: username
-github_username: username
+github_username: 6bita
 minimal_mistakes_skin: default
+
+
 search: true
 
 # Build settings
