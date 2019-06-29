@@ -28,6 +28,8 @@ comments:
   disqus:
     shortname: "copa-america-brasil-2019"
 
+atom_feed:
+  path: ""
 
 twitter_username: username
 github_username: 6bita
