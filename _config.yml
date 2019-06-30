@@ -42,6 +42,18 @@ minimal_mistakes_skin: default
 
 search: true
 
+social:
+  type:  "Person" # Person or Organization (defaults to Person)
+  name:  "SeiBitA" # If the user or organization name differs from the site's name
+  links:
+   - https://6bita.github.io/6bita.github.io
+   
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-142981128-1"
+    anonymize_ip: false # default
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
