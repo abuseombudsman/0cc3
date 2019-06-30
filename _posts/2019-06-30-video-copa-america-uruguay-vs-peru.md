@@ -1,7 +1,7 @@
 ---
 title: "Copa América 2019: **Uruguay vs Perú** Partido Completo"
 excerpt: "Copa America Brasil 2019 Cuartos de Final **Uruguay vs Perú** Partido Completo"
-name: 2019-06-29-video-copa-america-uruguay-vs-peru.md
+name: 2019-06-30-video-copa-america-uruguay-vs-peru.md
 category:
   - Cuartos de Final
 tags:
