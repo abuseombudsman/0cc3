@@ -34,6 +34,7 @@ atom_feed:
   path: ""
   
 google_site_verification: "iEpyftl8vztFloxfazmXpcTYR8qaoj_M1FMNN9_tmwQ"
+bing_site_verification: "192EA88F6C4D2A268FEFC9AB5A74172E"
 
 twitter_username: username
 github_username: 6bita
@@ -44,7 +45,7 @@ search: true
 
 social:
   type:  "Person" # Person or Organization (defaults to Person)
-  name:  "SeiBitA" # If the user or organization name differs from the site's name
+  name:  "Sei Bita" # If the user or organization name differs from the site's name
   links:
    - https://6bita.github.io/6bita.github.io
    
