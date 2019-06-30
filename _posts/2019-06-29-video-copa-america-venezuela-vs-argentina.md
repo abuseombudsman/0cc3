@@ -1,20 +1,20 @@
 ---
-title: "Copa América 2019: **Venezuela vs Argentina** Partido Completo"
-excerpt: "Copa America Brasil 2019 Cuartos de Final **Venezuela vs Argentina** Partido Completo"
-name: 2019-06-29-video-copa-america-venezuela-vs-argentina.md
+title: "Copa América 2019: **Uruguay vs Perú** Partido Completo"
+excerpt: "Copa America Brasil 2019 Cuartos de Final **Uruguay vs Perú** Partido Completo"
+name: 2019-06-29-video-copa-america-uruguay-vs-peru.md
 category:
   - Cuartos de Final
 tags:
-  - Venezuela
-  - Argentina
-link: https://mystream.to/watch/czrrkqwwg4u7
+  - Uruguay
+  - Perú
+link: https://mystream.to/watch/z554mmipj9gl
 header:
     overlay_color: "#012681"
     overlay_filter: "0.3"
     overlay_image: /assets/images/g844.jpg
 ---
 
-**Copa America** - **Brasil 2019** - Cuartos de Final: **Venezuela vs Argentina**, jugado en Rio de Janeiro, video en **idioma ruso**.
+**Copa America** - **Brasil 2019** - Cuartos de Final: **Uruguay vs Perú**, jugado en Salvador de Bahía, video en **idioma ruso**.
 {: .notice--warning}
 
 <style>
@@ -37,7 +37,7 @@ header:
 				<tr>
 					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/21210212120.png"></td>
 					<td>
-						<iframe src="https://embed.mystream.to/czrrkqwwg4u7" scrolling="no" frameborder="0" width="560" height="315" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+						<iframe src="https://embed.mystream.to/z554mmipj9gl" scrolling="no" frameborder="0" width="560" height="315" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 					</td>
     					<td width="21" background="{{ site.url }}/{{ site.baseurl }}/assets/images/203233451.png"></td>
   				</tr>
