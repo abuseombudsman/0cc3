@@ -1,0 +1,7 @@
+{% if site.data.ui-text[site.locale].follow_label %} 
+{{ site.data.ui-text[site.locale].follow_label }}
+{% endif %} {% if site.footer.links %} {% for link in site.footer.links %} {% if link.label and link.url %} 
+{{ link.label }}
+{% endif %} {% endfor %} {% endif %} 
+{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
+cGBGc © {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} Jekyll & Minimal Mistakes.
