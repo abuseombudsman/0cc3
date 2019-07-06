@@ -23,20 +23,43 @@
           alt="">
       </div>
     {% endif %}
+    <style>
+      div.highlighter-rouge, figure.highlight {
+        position: relative;
+        margin-bottom: 1em;
+        font-family: Monaco,Consolas,"Lucida Console",monospace;
+        font-size: .75em;
+        line-height: 1.8;
+        border: 1px solid #e9dcbe;
+        border-radius: 4px;
+        background-color: #fafafa;
+        box-shadow: 0 1px 1px rgba(0,0,0,0.125); }
+    </style>
     <table>
       <tbody>
         <tr>
           <td>
-            <div class="highlight">
-              <h2 class="highlight">
-                <pre class="highlight">
-                  {{ post.tags | join: " vs " }}
-                </pre>
-              </h2> <!--style="color: #929598;background: white;border: 1px solid #929598;padding: 5px;width: 100%;margin-left: 5px;" -->
+            <div class="highlighter-rouge">
+              <div class="highlight">
+                <h2 class="highlight">
+                  <pre class="highlight">
+                    {{ post.tags | join: " vs " }}
+                  </pre>
+                </h2> <!--style="color: #929598;background: white;border: 1px solid #929598;padding: 5px;width: 100%;margin-left: 5px;" -->
+              </div>
             </div>
           </td>
           <td>
-            <h2>`{{ post.category }}`</h2> <!--style="color: white;background: #929598;border: 1px solid #929598;padding: 5px;width: 100%;margin-right: 5px;"-->
+            <div class="highlighter-rouge">
+              <div class="highlight">
+                <h2 class="highlight">
+                  <pre class="highlight">
+                    <h2>{{ post.category }}</h2>
+                  </pre>
+                </h2> <!--style="color: #929598;background: white;border: 1px solid #929598;padding: 5px;width: 100%;margin-left: 5px;" -->
+              </div>
+            </div>
+             <!--style="color: white;background: #929598;border: 1px solid #929598;padding: 5px;width: 100%;margin-right: 5px;"-->
           </td>
         </tr>
       </tbody>
