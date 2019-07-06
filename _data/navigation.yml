@@ -1,9 +1,9 @@
 main:
-  - title: "Partidos-Completos"
+  - title: "X Partidos-Completos"
     url: /partidos-completos/
   - title: "X Fases"
     url: /categories/
   - title: "X Selecciones"
     url: /tags/
-  - title: "Acerca de Copa America 2019"
+  - title: "X Acerca de Copa America 2019"
     url: /acerca-de/
