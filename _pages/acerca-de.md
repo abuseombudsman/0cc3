@@ -7,7 +7,7 @@ header:
     overlay_image: /assets/images/g844.jpg
 ---
 
-La Copa America Brasil 2019 se disputa en 6 ciudades brasileiras: 
+La Copa America Brasil 2019 se disputa en 5 ciudades brasileiras: 
 
 - Salvador de Bahía
 - Porto Alegre
